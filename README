@@ -1,0 +1,7 @@
+simpleCRUD
+
+Developed by Fredi Machado <fredisoft at gmail dot com>
+http://fredimachado.com.br
+
+  This is a simple PHP class to help you in CRUD (Create, Retrieve,
+  Update and Delete) actions. Take a look at the examples included.
