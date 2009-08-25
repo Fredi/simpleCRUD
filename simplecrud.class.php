@@ -1,5 +1,11 @@
 <?php
-
+/**
+ * simpleCRUD v0.1
+ *
+ * @author Fredi Machado <fredisoft at gmail dot com>
+ * @link http://fredimachado.com.br
+ * @date 08/25/2009
+ */
 class simpleCRUD
 {
 	protected $__table   = "";
