@@ -95,7 +95,7 @@ class simpleCRUD
 
 		$r = mysql_query($query);
 
-		return mysql_affected_rows() == 1 ? true : false;
+		return $r !== FALSE ? true : false;
 	}
 
 	public function delete($id = null)
